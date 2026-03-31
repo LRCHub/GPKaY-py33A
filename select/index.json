@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "楔",
+  "base_artist": "涼海ネモ",
+  "createdAt": "2026-03-31T13:02:27.991059Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "楔",
+      "artist": "奥華子",
+      "has_synced": true,
+      "path": "select/01_楔_奥華子.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "楔 (Instrumental)",
+      "artist": "Baby's breath",
+      "has_synced": true,
+      "path": "select/02_楔_(Instrumental)_Baby's_breath.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "楔",
+      "artist": "Baby's breath",
+      "has_synced": true,
+      "path": "select/03_楔_Baby's_breath.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "楔-くさび-",
+      "artist": "奥華子",
+      "has_synced": false,
+      "path": "select/04_楔-くさび-_奥華子.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "楔",
+      "artist": "涼海ネモ",
+      "has_synced": false,
+      "path": "select/pl_01_楔_涼海ネモ.txt"
+    }
+  ]
+}
